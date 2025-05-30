@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 I enjoy coding and building useful projects.<br>- 🌱 Currently learning new technologies and improving my skills.<br>- ⚙️ I like working with e.g., JavaScript/Typescript, Python, React and Cloud.<br>- 🛠️ Open to collaborating on interesting and meaningful projects.<br>- 📫 How to reach me: krishnendusajim@gmail.com<br>- 🚀 Always curious and ready to learn something new!
+- 💻 I enjoy coding and building useful projects.<br>- 🌱 Currently learning new technologies and improving my skills.<br>- ⚙️ I like working with JavaScript/Typescript, Python, React, and Cloud.<br>- 🛠️ Open to collaborating on interesting and meaningful projects.<br>- 📫 How to reach me: krishnendusajim@gmail.com<br>- 🚀 Always curious and ready to learn something new!
 
 
 # 💻 Tech Stack:
