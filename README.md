@@ -20,9 +20,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kris-and-code&repo=YOUR_REPO_NAME_1&theme=merko)](https://github.com/Kris-and-code/YOUR_REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kris-and-code&repo=YOUR_REPO_NAME_2&theme=merko)](https://github.com/Kris-and-code/YOUR_REPO_NAME_2)
+
 
 
 
