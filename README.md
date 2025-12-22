@@ -1,4 +1,4 @@
-# Hi, I'm Kris 👋
+# Hi, I'm Krishnendu 👋
 
 **AI Developer** based in Germany, focused on building intelligent systems and developer tools.
 
