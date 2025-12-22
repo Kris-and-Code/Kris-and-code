@@ -40,10 +40,9 @@ Ich arbeite mit **Python**, **TypeScript** und **Cloud-Infrastruktur** — von d
 
 ### GitHub-Statistiken
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kris-and-Code&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=de" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kris-and-Code&theme=github_dark&hide_border=true&layout=compact&locale=de" height="165" alt="Top Languages" />
-</p>
+![Kris's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kris-and-Code&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=de)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kris-and-Code&theme=github_dark&hide_border=true&layout=compact&locale=de)
 
 ---
 
