@@ -1,4 +1,6 @@
-# Hi, I'm Krishnendu 👋
+🌐 [English](README.md) | [Deutsch](README_DE.md)
+
+# Hi, I'm Kris 👋
 
 **AI Developer** based in Germany, focused on building intelligent systems and developer tools.
 
