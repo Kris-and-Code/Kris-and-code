@@ -39,8 +39,8 @@ I work with **Python**, **TypeScript**, and **Cloud Infrastructure** — turning
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kris-and-code&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kris-and-code&theme=github_dark&hide_border=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kris-and-Code&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kris-and-Code&theme=github_dark&hide_border=true&layout=compact" height="165" />
 </p>
 
 ---
