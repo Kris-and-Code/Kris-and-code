@@ -1,6 +1,6 @@
 🌐 [English](README.md) | [Deutsch](README_DE.md)
 
-# Hi, I'm Kris 👋
+# Hi, I'm Krish 👋
 
 **AI Developer** based in Germany, focused on building intelligent systems and developer tools.
 
