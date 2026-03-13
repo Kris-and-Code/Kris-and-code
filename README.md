@@ -3,7 +3,7 @@
 **Full-Stack AI Developer** based in Germany — building intelligent systems
 that work in production, not just in notebooks.
 
-M.Eng. Software Engineering · Previously at Siemens AG · Open to new roles
+M.Eng. Software Engineering · Previously at Harms Nutricare GmbH, and Siemens AG · Open to new roles
 
 ---
 
@@ -52,4 +52,4 @@ M.Eng. Software Engineering · Previously at Siemens AG · Open to new roles
 📫 **Email:** [krishnendusajim@gmail.com](mailto:krishnendusajim@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/krishnendusaji](https://linkedin.com/in/krishnendusaji)
 
-*Open to Full-Stack AI Developer and AI/ML Engineer roles in Germany (Nürnberg/Munich corridor or remote).*
+*Open to Full-Stack AI Developer and AI/ML Engineer roles in Germany.*
