@@ -1,18 +1,18 @@
-🌐 [English](README.md) | [Deutsch](README_DE.md)
+# Hi, I'm Krishnendu (Krish) 👋
 
-# Hi, I'm Krish 👋
+**Full-Stack AI Developer** based in Germany — building intelligent systems
+that work in production, not just in notebooks.
 
-**AI Developer** based in Germany, focused on building intelligent systems and developer tools.
-
-I work with **Python**, **TypeScript**, and **Cloud Infrastructure** — turning ideas into production-ready applications.
+M.Eng. Software Engineering · Previously at Siemens AG · Open to new roles
 
 ---
 
-### What I'm Building
+### What I Build
 
-🔹 **AI Agents & Automation** — LLM-powered tools that handle complex workflows  
-🔹 **Full-Stack Applications** — React/Next.js frontends with Python/Node backends  
-🔹 **Data Pipelines** — IoT systems, analytics dashboards, and ML infrastructure
+🔹 **LLM Agents & Pipelines** — multi-agent systems with planner/generator/validator architecture  
+🔹 **NLP & Sentiment Analysis** — Hugging Face Transformers, >94% accuracy at scale  
+🔹 **Full-Stack Applications** — React/Next.js frontends with FastAPI/Python backends  
+🔹 **IoT & Edge Computing** — containerised data pipelines with MQTT and Docker
 
 ---
 
@@ -20,21 +20,21 @@ I work with **Python**, **TypeScript**, and **Cloud Infrastructure** — turning
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**AIAgent**](https://github.com/Kris-and-Code/AIAgent) | Autonomous AI agent framework | Python |
-| [**ProcessAgent**](https://github.com/Kris-and-Code/ProcessAgent) | Process automation with LLMs | Python |
-| [**Ecommerce-Analytics**](https://github.com/Kris-and-Code/Ecommerce-Analytics) | Real-time analytics dashboard | TypeScript |
-| [**IoT-Edge-Pipeline**](https://github.com/Kris-and-Code/IoT-Edge-pipeline) | Edge computing data pipeline | Python |
+| [**ProcessAgent**](https://github.com/Kris-and-Code/ProcessAgent) | Autonomous machining process planner — planner → generator → validator agents with pytest and Mermaid diagrams | Python · FastAPI · LLM |
+| [**Feedback-Pulse-Platform**](https://github.com/Kris-and-Code/Feedback-pulse-platform) | NLP platform for e-commerce review analysis — sentiment + emotion detection, >94% accuracy, 100 reviews in <2 min | Python · Hugging Face · FastAPI |
+| [**Ecommerce-Analytics**](https://github.com/Kris-and-Code/Ecommerce-Analytics) | Full-stack sentiment analytics dashboard | React · TypeScript · FastAPI |
+| [**IoT-Edge-Pipeline**](https://github.com/Kris-and-Code/IoT-Edge-pipeline) | Scalable edge computing pipeline, fully containerised | Python · MQTT · Docker |
 
 ---
 
 ### Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript · Java  
+**Languages:** Python · TypeScript · JavaScript  
 **Frontend:** React · Next.js · TailwindCSS  
-**Backend:** FastAPI · Node.js · Express  
-**AI/ML:** PyTorch · TensorFlow · scikit-learn  
-**Cloud:** AWS · Firebase · Docker · Kubernetes  
-**Data:** PostgreSQL · DynamoDB · Pandas
+**Backend:** FastAPI · Flask · Node.js  
+**AI/ML:** Hugging Face Transformers · LLM Agents · RAG · scikit-learn · PyTorch  
+**Cloud/DevOps:** AWS (Cloud Practitioner) · Docker · Kubernetes · Firebase  
+**Databases:** PostgreSQL · MongoDB · Firebase Firestore
 
 ---
 
@@ -49,6 +49,7 @@ I work with **Python**, **TypeScript**, and **Cloud Infrastructure** — turning
 
 ### Let's Connect
 
-📫 **Email:** [krishnendusajim@gmail.com](mailto:krishnendusajim@gmail.com)
+📫 **Email:** [krishnendusajim@gmail.com](mailto:krishnendusajim@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/krishnendusaji](https://linkedin.com/in/krishnendusaji)
 
-*Open to collaborating on AI/ML projects and interesting engineering challenges.*
+*Open to Full-Stack AI Developer and AI/ML Engineer roles in Germany (Nürnberg/Munich corridor or remote).*
